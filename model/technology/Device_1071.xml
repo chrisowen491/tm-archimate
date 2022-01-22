@@ -1,4 +1,7 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Admin Server"
-    id="1071"/>
+    id="1071">
+  <profiles
+      href="folder.xml#id-6c86642d97d14c0a8c2e8fdce61d87af"/>
+</archimate:Device>

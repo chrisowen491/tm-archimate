@@ -3,4 +3,9 @@
     name="Archisurance"
     id="11f5304f"
     purpose="An example of a fictional Insurance company."
-    version="4.9.0"/>
+    version="4.9.0">
+  <profiles
+      name="Specialization 1"
+      id="id-6c86642d97d14c0a8c2e8fdce61d87af"
+      conceptType="Device"/>
+</archimate:ArchimateModel>
