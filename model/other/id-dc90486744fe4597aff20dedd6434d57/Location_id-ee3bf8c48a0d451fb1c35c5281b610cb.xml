@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turks and Caicos Islands"
+    id="id-ee3bf8c48a0d451fb1c35c5281b610cb">
+  <properties
+      key="Country Code"
+      value="TCA"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Cockburn Town"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burkina Faso"
+    id="id-be7e45b3fe0346a283b8ab1200f3cb29"
+    documentation="Burkina Faso">
+  <properties
+      key="Country Code"
+      value="BFA"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Ouagadougou"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BCEAO (XOF)"/>
+</archimate:Location>

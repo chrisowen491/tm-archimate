@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kenya"
+    id="id-10d764a174074bb69a6b30eb19a9efc0"
+    documentation="the Republic of Kenya">
+  <properties
+      key="Country Code"
+      value="KEN"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Nairobi"/>
+  <properties
+      key="Currency"
+      value="Kenyan Shilling (KES)"/>
+</archimate:Location>

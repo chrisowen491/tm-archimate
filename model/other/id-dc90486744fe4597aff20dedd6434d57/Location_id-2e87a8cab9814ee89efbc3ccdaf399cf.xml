@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bhutan"
+    id="id-2e87a8cab9814ee89efbc3ccdaf399cf"
+    documentation="the Kingdom of Bhutan">
+  <properties
+      key="Country Code"
+      value="BTN"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Thimphu"/>
+  <properties
+      key="Currency"
+      value="Indian Rupee,Ngultrum (INR,BTN)"/>
+</archimate:Location>

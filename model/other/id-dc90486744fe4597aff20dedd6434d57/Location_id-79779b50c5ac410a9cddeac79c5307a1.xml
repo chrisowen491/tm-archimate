@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maldives"
+    id="id-79779b50c5ac410a9cddeac79c5307a1"
+    documentation="the Republic of Maldives">
+  <properties
+      key="Country Code"
+      value="MDV"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Male"/>
+  <properties
+      key="Currency"
+      value="Rufiyaa (MVR)"/>
+</archimate:Location>

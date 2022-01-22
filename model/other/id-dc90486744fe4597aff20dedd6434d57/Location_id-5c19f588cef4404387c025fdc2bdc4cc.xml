@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Western Sahara"
+    id="id-5c19f588cef4404387c025fdc2bdc4cc">
+  <properties
+      key="Country Code"
+      value="ESH"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="El-Aaiun"/>
+  <properties
+      key="Currency"
+      value="Moroccan Dirham (MAD)"/>
+</archimate:Location>

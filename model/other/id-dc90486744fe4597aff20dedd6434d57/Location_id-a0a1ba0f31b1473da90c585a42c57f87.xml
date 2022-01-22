@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="China, Macao Special Administrative Region"
+    id="id-a0a1ba0f31b1473da90c585a42c57f87">
+  <properties
+      key="Country Code"
+      value="MAC"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Macao"/>
+  <properties
+      key="Currency"
+      value="Pataca (MOP)"/>
+</archimate:Location>

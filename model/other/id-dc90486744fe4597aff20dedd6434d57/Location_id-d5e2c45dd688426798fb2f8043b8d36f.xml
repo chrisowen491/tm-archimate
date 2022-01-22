@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuba"
+    id="id-d5e2c45dd688426798fb2f8043b8d36f"
+    documentation="the Republic of Cuba">
+  <properties
+      key="Country Code"
+      value="CUB"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Havana"/>
+  <properties
+      key="Currency"
+      value="Cuban Peso,Peso Convertible (CUP,CUC)"/>
+</archimate:Location>

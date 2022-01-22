@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kiribati"
+    id="id-67d181d0ab3643368a9203dd7e74ca94"
+    documentation="the Republic of Kiribati">
+  <properties
+      key="Country Code"
+      value="KIR"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Tarawa"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Luxembourg"
+    id="id-42e5fe878a244674ac9b704c3e2cb781"
+    documentation="the Grand Duchy of Luxembourg">
+  <properties
+      key="Country Code"
+      value="LUX"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Luxembourg"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

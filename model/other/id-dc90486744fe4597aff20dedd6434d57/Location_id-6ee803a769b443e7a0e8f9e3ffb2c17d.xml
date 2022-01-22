@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serbia"
+    id="id-6ee803a769b443e7a0e8f9e3ffb2c17d"
+    documentation="the Republic of Serbia">
+  <properties
+      key="Country Code"
+      value="SRB"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Belgrade"/>
+  <properties
+      key="Currency"
+      value="Serbian Dinar (RSD)"/>
+</archimate:Location>

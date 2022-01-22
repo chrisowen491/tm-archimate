@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turkey"
+    id="id-49a129df424f4d37b108b4a48fd56c30"
+    documentation="the Republic of Turkey">
+  <properties
+      key="Country Code"
+      value="TUR"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Ankara"/>
+  <properties
+      key="Currency"
+      value="Turkish Lira (TRY)"/>
+</archimate:Location>

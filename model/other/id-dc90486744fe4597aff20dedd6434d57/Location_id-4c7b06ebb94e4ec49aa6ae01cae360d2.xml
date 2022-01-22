@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uganda"
+    id="id-4c7b06ebb94e4ec49aa6ae01cae360d2"
+    documentation="the Republic of Uganda">
+  <properties
+      key="Country Code"
+      value="UGA"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Kampala"/>
+  <properties
+      key="Currency"
+      value="Uganda Shilling (UGX)"/>
+</archimate:Location>

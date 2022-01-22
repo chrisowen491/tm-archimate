@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marshall Islands"
+    id="id-df4c24dc6eaa4627bd7df230d73fad3b"
+    documentation="the Republic of the Marshall Islands">
+  <properties
+      key="Country Code"
+      value="MHL"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Majuro"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

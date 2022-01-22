@@ -1,0 +1,16 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United States Minor Outlying Islands"
+    id="id-385d89b7174d44a2b2a4752f2a6d4030">
+  <properties
+      key="Country Code"
+      value="UMI"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

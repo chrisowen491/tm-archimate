@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guinea-Bissau"
+    id="id-35463bfc79cc41a2be017830f58d5493"
+    documentation="the Republic of Guinea-Bissau">
+  <properties
+      key="Country Code"
+      value="GNB"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Bissau"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BCEAO (XOF)"/>
+</archimate:Location>

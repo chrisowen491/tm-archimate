@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="China"
+    id="id-f95d0bcfe56f466381ed82dd36e36d11"
+    documentation="the People's Republic of China">
+  <properties
+      key="Country Code"
+      value="CHN"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Beijing"/>
+  <properties
+      key="Currency"
+      value="Yuan Renminbi (CNY)"/>
+</archimate:Location>

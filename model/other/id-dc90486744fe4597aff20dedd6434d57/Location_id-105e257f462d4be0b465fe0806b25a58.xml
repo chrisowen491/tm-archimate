@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="State of Palestine"
+    id="id-105e257f462d4be0b465fe0806b25a58"
+    documentation="State of Palestine">
+  <properties
+      key="Country Code"
+      value="PSE"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="East Jerusalem"/>
+  <properties
+      key="Currency"
+      value="No universal currency"/>
+</archimate:Location>

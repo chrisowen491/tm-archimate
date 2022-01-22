@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saint Pierre and Miquelon"
+    id="id-36be7620c2a94f5fb10687e2c71b2078">
+  <properties
+      key="Country Code"
+      value="SPM"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Saint-Pierre"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

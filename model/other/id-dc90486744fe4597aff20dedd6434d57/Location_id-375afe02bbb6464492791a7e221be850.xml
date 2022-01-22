@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wallis and Futuna Islands"
+    id="id-375afe02bbb6464492791a7e221be850">
+  <properties
+      key="Country Code"
+      value="WLF"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Mata Utu"/>
+  <properties
+      key="Currency"
+      value="CFP Franc (XPF)"/>
+</archimate:Location>

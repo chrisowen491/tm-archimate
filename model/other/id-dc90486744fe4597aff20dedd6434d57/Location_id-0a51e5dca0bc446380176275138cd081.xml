@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kazakhstan"
+    id="id-0a51e5dca0bc446380176275138cd081"
+    documentation="the Republic of Kazakhstan">
+  <properties
+      key="Country Code"
+      value="KAZ"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Astana"/>
+  <properties
+      key="Currency"
+      value="Tenge (KZT)"/>
+</archimate:Location>

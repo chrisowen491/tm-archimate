@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papua New Guinea"
+    id="id-d5ed18ab47c3424d916ceb70f9afc215"
+    documentation="Independent State of Papua New Guinea">
+  <properties
+      key="Country Code"
+      value="PNG"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Port Moresby"/>
+  <properties
+      key="Currency"
+      value="Kina (PGK)"/>
+</archimate:Location>

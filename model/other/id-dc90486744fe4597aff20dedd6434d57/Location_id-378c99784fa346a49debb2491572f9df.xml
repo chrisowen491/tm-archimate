@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Democratic Republic of the Congo"
+    id="id-378c99784fa346a49debb2491572f9df"
+    documentation="the Democratic Republic of the Congo">
+  <properties
+      key="Country Code"
+      value="COD"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Kinshasa"/>
+  <properties
+      key="Currency"
+      value="Congolese Franc (CDF)"/>
+</archimate:Location>

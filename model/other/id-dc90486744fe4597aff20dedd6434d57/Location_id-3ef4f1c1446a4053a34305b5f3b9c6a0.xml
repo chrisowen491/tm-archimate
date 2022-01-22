@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oman"
+    id="id-3ef4f1c1446a4053a34305b5f3b9c6a0"
+    documentation="the Sultanate of Oman">
+  <properties
+      key="Country Code"
+      value="OMN"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Muscat"/>
+  <properties
+      key="Currency"
+      value="Rial Omani (OMR)"/>
+</archimate:Location>

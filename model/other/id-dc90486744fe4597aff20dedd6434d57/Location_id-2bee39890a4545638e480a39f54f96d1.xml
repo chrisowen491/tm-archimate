@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Malawi"
+    id="id-2bee39890a4545638e480a39f54f96d1"
+    documentation="the Republic of Malawi">
+  <properties
+      key="Country Code"
+      value="MWI"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Lilongwe"/>
+  <properties
+      key="Currency"
+      value="Malawi Kwacha (MWK)"/>
+</archimate:Location>

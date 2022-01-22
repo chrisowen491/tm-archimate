@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Venezuela (Bolivarian Republic of)"
+    id="id-6eb66377399f40f38af97458426e2182"
+    documentation="the Bolivarian Republic of Venezuela">
+  <properties
+      key="Country Code"
+      value="VEN"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Caracas"/>
+  <properties
+      key="Currency"
+      value="Bolívar (VEF)"/>
+</archimate:Location>

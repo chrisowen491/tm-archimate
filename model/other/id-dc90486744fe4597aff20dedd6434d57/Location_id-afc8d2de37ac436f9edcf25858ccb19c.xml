@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jamaica"
+    id="id-afc8d2de37ac436f9edcf25858ccb19c"
+    documentation="Jamaica">
+  <properties
+      key="Country Code"
+      value="JAM"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Kingston"/>
+  <properties
+      key="Currency"
+      value="Jamaican Dollar (JMD)"/>
+</archimate:Location>

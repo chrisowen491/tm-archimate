@@ -1,0 +1,14 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5fe24f1cb2e940ab9d0c862b62614d67">
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <source
+      xsi:type="archimate:Location"
+      href="Location_id-a65d97ddb2554e93937d349d94c44344.xml#id-a65d97ddb2554e93937d349d94c44344"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-63528166e3884dfe8a4afdc2ccd42f77.xml#id-63528166e3884dfe8a4afdc2ccd42f77"/>
+</archimate:CompositionRelationship>

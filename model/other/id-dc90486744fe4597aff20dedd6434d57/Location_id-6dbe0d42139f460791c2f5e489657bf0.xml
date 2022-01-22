@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Singapore"
+    id="id-6dbe0d42139f460791c2f5e489657bf0"
+    documentation="the Republic of Singapore">
+  <properties
+      key="Country Code"
+      value="SGP"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Singapore"/>
+  <properties
+      key="Currency"
+      value="Singapore Dollar (SGD)"/>
+</archimate:Location>

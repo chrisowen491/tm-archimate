@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gibraltar"
+    id="id-d0d95c2a55a6421b8a5f5169c84c1974">
+  <properties
+      key="Country Code"
+      value="GIB"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Gibraltar"/>
+  <properties
+      key="Currency"
+      value="Gibraltar Pound (GIP)"/>
+</archimate:Location>

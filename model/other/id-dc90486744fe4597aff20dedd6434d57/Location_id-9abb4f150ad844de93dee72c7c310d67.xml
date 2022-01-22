@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Malaysia"
+    id="id-9abb4f150ad844de93dee72c7c310d67"
+    documentation="Malaysia">
+  <properties
+      key="Country Code"
+      value="MYS"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Kuala Lumpur"/>
+  <properties
+      key="Currency"
+      value="Malaysian Ringgit (MYR)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Honduras"
+    id="id-44b90f75f9644a64b1a429b51d377cce"
+    documentation="the Republic of Honduras">
+  <properties
+      key="Country Code"
+      value="HND"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Tegucigalpa"/>
+  <properties
+      key="Currency"
+      value="Lempira (HNL)"/>
+</archimate:Location>

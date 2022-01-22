@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Myanmar"
+    id="id-0f2b92442d2f4e0c884c51a5e0354e12"
+    documentation="the Republic of the Union of Myanmar">
+  <properties
+      key="Country Code"
+      value="MMR"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Nay Pyi Taw"/>
+  <properties
+      key="Currency"
+      value="Kyat (MMK)"/>
+</archimate:Location>

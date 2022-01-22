@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cabo Verde"
+    id="id-d5066e3bae184e1b98b2ef6953b61b6c"
+    documentation="the Republic of Cabo Verde">
+  <properties
+      key="Country Code"
+      value="CPV"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Praia"/>
+  <properties
+      key="Currency"
+      value="Cabo Verde Escudo (CVE)"/>
+</archimate:Location>

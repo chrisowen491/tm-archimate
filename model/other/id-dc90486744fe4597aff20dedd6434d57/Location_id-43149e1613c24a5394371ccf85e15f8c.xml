@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Palau"
+    id="id-43149e1613c24a5394371ccf85e15f8c"
+    documentation="the Republic of Palau">
+  <properties
+      key="Country Code"
+      value="PLW"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Melekeok"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

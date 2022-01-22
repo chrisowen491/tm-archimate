@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norway"
+    id="id-992217201b004413ad012d305b395e33"
+    documentation="the Kingdom of Norway">
+  <properties
+      key="Country Code"
+      value="NOR"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Oslo"/>
+  <properties
+      key="Currency"
+      value="Norwegian Krone (NOK)"/>
+</archimate:Location>

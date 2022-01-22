@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thailand"
+    id="id-78bcc817bc9d495d84e77d28ddb104f2"
+    documentation="the Kingdom of Thailand">
+  <properties
+      key="Country Code"
+      value="THA"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Bangkok"/>
+  <properties
+      key="Currency"
+      value="Baht (THB)"/>
+</archimate:Location>

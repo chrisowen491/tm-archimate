@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greenland"
+    id="id-ce655a97a7a34d50b310f796a0cf5e1c">
+  <properties
+      key="Country Code"
+      value="GRL"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Nuuk"/>
+  <properties
+      key="Currency"
+      value="Danish Krone (DKK)"/>
+</archimate:Location>

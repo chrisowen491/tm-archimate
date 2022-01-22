@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Antigua and Barbuda"
+    id="id-ab0c388dc6ce4329a16a78980aa91792"
+    documentation="Antigua and Barbuda">
+  <properties
+      key="Country Code"
+      value="ATG"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="St. John's"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

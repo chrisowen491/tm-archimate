@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norfolk Island"
+    id="id-96df64decf724b9e8eba247d34dca25f">
+  <properties
+      key="Country Code"
+      value="NFK"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Kingston"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seychelles"
+    id="id-d23d0805eab5458d96ecd8ab4318361e"
+    documentation="the Republic of Seychelles">
+  <properties
+      key="Country Code"
+      value="SYC"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Victoria"/>
+  <properties
+      key="Currency"
+      value="Seychelles Rupee (SCR)"/>
+</archimate:Location>

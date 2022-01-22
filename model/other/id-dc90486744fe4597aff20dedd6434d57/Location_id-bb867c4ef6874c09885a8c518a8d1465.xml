@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mozambique"
+    id="id-bb867c4ef6874c09885a8c518a8d1465"
+    documentation="the Republic of Mozambique">
+  <properties
+      key="Country Code"
+      value="MOZ"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Maputo"/>
+  <properties
+      key="Currency"
+      value="Mozambique Metical (MZN)"/>
+</archimate:Location>

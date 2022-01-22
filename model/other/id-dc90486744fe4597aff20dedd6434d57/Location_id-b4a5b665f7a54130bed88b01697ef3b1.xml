@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Russian Federation"
+    id="id-b4a5b665f7a54130bed88b01697ef3b1"
+    documentation="the Russian Federation">
+  <properties
+      key="Country Code"
+      value="RUS"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Moscow"/>
+  <properties
+      key="Currency"
+      value="Russian Ruble (RUB)"/>
+</archimate:Location>

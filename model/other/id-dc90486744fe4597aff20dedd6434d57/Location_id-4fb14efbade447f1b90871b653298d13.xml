@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trinidad and Tobago"
+    id="id-4fb14efbade447f1b90871b653298d13"
+    documentation="the Republic of Trinidad and Tobago">
+  <properties
+      key="Country Code"
+      value="TTO"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Port of Spain"/>
+  <properties
+      key="Currency"
+      value="Trinidad and Tobago Dollar (TTD)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ethiopia"
+    id="id-5f31b904bb8c46bfa29ce45e2418f644"
+    documentation="the Federal Democratic Republic of Ethiopia">
+  <properties
+      key="Country Code"
+      value="ETH"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Addis Ababa"/>
+  <properties
+      key="Currency"
+      value="Ethiopian Birr (ETB)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="El Salvador"
+    id="id-bc6473decb13433a9330f63076277727"
+    documentation="the Republic of El Salvador">
+  <properties
+      key="Country Code"
+      value="SLV"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="San Salvador"/>
+  <properties
+      key="Currency"
+      value="El Salvador Colon,US Dollar (SVC,USD)"/>
+</archimate:Location>

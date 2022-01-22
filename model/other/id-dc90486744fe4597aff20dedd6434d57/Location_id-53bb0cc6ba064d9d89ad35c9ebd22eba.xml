@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bosnia and Herzegovina"
+    id="id-53bb0cc6ba064d9d89ad35c9ebd22eba"
+    documentation="Bosnia and Herzegovina">
+  <properties
+      key="Country Code"
+      value="BIH"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Sarajevo"/>
+  <properties
+      key="Currency"
+      value="Convertible Mark (BAM)"/>
+</archimate:Location>

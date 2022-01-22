@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bulgaria"
+    id="id-5e1fe8a20fd54e799050cfc61a465f4a"
+    documentation="the Republic of Bulgaria">
+  <properties
+      key="Country Code"
+      value="BGR"/>
+  <properties
+      key="Latest Sync Date"
+      value="22/01/2022 18:55:51"/>
+  <properties
+      key="Capital"
+      value="Sofia"/>
+  <properties
+      key="Currency"
+      value="Bulgarian Lev (BGN)"/>
+</archimate:Location>
