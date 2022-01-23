@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Actor Cooperation view"
     id="4165"
+    documentation="ok"
     viewpoint="1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
