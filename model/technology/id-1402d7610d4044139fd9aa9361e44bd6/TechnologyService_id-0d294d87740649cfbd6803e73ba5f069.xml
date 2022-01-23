@@ -12,4 +12,6 @@
   <properties
       key="Technology"
       value="undefined"/>
+  <profiles
+      href="folder.xml#id-1b828bb13cf04b2883cc8306dd397858"/>
 </archimate:TechnologyService>

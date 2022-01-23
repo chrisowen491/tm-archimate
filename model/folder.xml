@@ -9,4 +9,9 @@
       id="id-6c86642d97d14c0a8c2e8fdce61d87af"
       imagePath="images/_yX6NAHvUEeyTYsqQKS0Agg.ico"
       conceptType="Device"/>
+  <profiles
+      name="Specialization 2"
+      id="id-1b828bb13cf04b2883cc8306dd397858"
+      imagePath="images/__FsNkHvcEeyLh-2V2ZlWKg.png"
+      conceptType="TechnologyService"/>
 </archimate:ArchimateModel>
