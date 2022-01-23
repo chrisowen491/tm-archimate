@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Demohohotivator"
+    id="id-238729b0074a47d88a636a4dce98556e"
+    documentation="Tool for MSE Users to see how much they can save before Christmas by giving up frequent non-essential purchases">
+  <properties
+      key="Name"
+      value="MSE User Tool - Demohohotivator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

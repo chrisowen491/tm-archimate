@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE App - Tip Highlights"
+    id="id-426db33981ac4966979ffaf54afdddd3"
+    documentation="WebView of Tip highlights for presentation in MSE App">
+  <properties
+      key="Name"
+      value="MSE App - Tip Highlights"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

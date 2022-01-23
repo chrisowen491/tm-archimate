@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Car Insurance Job Picker"
+    id="id-8243c829d39d4526882730efbd617941"
+    documentation="Tool for MSE Users to get a list of similar job titles that may offer lower car insurance rates">
+  <properties
+      key="Name"
+      value="MSE User Tool - Car Insurance Job Picker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

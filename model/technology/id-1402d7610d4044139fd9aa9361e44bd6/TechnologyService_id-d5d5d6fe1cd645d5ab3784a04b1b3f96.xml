@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Comparison Tool"
+    id="id-d5d5d6fe1cd645d5ab3784a04b1b3f96"
+    documentation="Consumes enquiry events produced by existing Public / Private API and plays them through the new Agg Engine hitting mocked providers. Compares the results for differences.">
+  <properties
+      key="Name"
+      value="Agg Comparison Tool"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

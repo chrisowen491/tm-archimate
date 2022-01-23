@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contents calculator service"
+    id="id-81908440e8da476b82fdedcd3e848162"
+    documentation="AWS Lambda function. Returns an estimated value for contents cover amount based on a data model">
+  <properties
+      key="Name"
+      value="Contents calculator service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intelligence Layer Store Service "
+    id="id-fc0658aa789e488181c16038b70b7b1a"
+    documentation="Store details and events data for a customer's interactions.">
+  <properties
+      key="Name"
+      value="Intelligence Layer Store Service "/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

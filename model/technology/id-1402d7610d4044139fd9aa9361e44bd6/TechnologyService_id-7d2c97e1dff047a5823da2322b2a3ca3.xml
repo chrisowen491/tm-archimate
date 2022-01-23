@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Van Aggregation Engine"
+    id="id-7d2c97e1dff047a5823da2322b2a3ca3"
+    documentation="Aggregation engine for van insurance">
+  <properties
+      key="Name"
+      value="Van Aggregation Engine"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

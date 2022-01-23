@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Product Data Tool - Core Service"
+    id="id-33eed3dc0e3f44c2b3297288bcefc975"
+    documentation="PDT controller that will be replaced by Energy Kelvin project">
+  <properties
+      key="Name"
+      value="Energy Product Data Tool - Core Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

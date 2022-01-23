@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collective Eligibility Service"
+    id="id-39ced1e8f18c4a48a4db2b5280d5d3c0"
+    documentation="This service is/was used by MSM Energy for closed collective switches, where only customers that have already signed up for marketing before the start of a collective switch are eligable for the collective switch. Most recent collective switches (as of May 2021) have been open collective switches that do not have this restriction placed on customers.&#xA;&#xA;The service loads customer email addresses from the /components/collective-eligibility-bucket S3 bucket and then holds those email addresses in-memory, within the service's Java heap. The service exposes a service endpoint that the MSM Energy frontend can call to find out whether a given customer email address is eligable for the current collective switch.&#xA;&#xA;We plan to hand this over to CSI as part of the Preference Centre.">
+  <properties
+      key="Name"
+      value="Collective Eligibility Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

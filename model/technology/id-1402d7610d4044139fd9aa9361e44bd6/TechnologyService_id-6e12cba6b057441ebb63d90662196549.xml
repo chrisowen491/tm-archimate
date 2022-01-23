@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Monitor Web Proxy"
+    id="id-6e12cba6b057441ebb63d90662196549"
+    documentation="Public API for credit monitor web app.">
+  <properties
+      key="Name"
+      value="Credit Monitor Web Proxy"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloudflare Frontworker"
+    id="id-22a2ae154239409798a5fbfbf9b966ef"
+    documentation="Clooudflare woker sat in front of large portions of site (not all!!) assigns source and userId Cookies more recenrly some authenticated redirects">
+  <properties
+      key="Name"
+      value="Cloudflare Frontworker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

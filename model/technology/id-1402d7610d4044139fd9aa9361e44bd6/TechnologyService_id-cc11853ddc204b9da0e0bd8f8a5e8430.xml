@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Insight Service v2"
+    id="id-cc11853ddc204b9da0e0bd8f8a5e8430"
+    documentation="Customer centric insights for dashboard on web and app.">
+  <properties
+      key="Name"
+      value="User Insight Service v2"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

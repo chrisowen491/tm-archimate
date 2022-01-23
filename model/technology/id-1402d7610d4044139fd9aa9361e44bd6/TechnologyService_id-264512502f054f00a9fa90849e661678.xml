@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gluster Proxy Consumer"
+    id="id-264512502f054f00a9fa90849e661678"
+    documentation="Service responsible for consuming eventsValid and eventsInvalid kafka events and calling the old event service gluster endpoints so that the events get stored in gluster.&#xA;&#xA;This service will drop any events that have been transformed by the event-transformer">
+  <properties
+      key="Name"
+      value="Gluster Proxy Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

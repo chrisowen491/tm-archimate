@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Address Lookup Service (ALS)"
+    id="id-3f6d7b7ad3924f80ab8c446950e395cc"
+    documentation="Acts as a broker for GB Group's Loqate API and transforms data into MSM's canonical data model">
+  <properties
+      key="Name"
+      value="Address Lookup Service (ALS)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Service"
+    id="id-9f29fa0711d74d6293b05748560154e6"
+    documentation="&quot;Engine room&quot; of Borrowing journeys - Search, Results, Deeplink business logic">
+  <properties
+      key="Name"
+      value="Money Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Braze Contact Preference Consumer"
+    id="id-566a2ddc59964896afb48f7a2542be08"
+    documentation="Consume consent events and updates Braze for marketing and push opt-ins.">
+  <properties
+      key="Name"
+      value="Braze Contact Preference Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Service"
+    id="id-b12c6f25598b471296d9f6ed726f552f"
+    documentation="ElasticSearch wrapper that manages all queries of Money products (in Rightscale)">
+  <properties
+      key="Name"
+      value="Product Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

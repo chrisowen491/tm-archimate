@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy B2B API"
+    id="id-188cb10ed3e844d4a7c383ec77103cfc"
+    documentation="API facade layer which is used by the whitelabel site and API partners to provide Auth/Enquiry/Results/Application functions for the energy vertical by calling upstream services.">
+  <properties
+      key="Name"
+      value="Energy B2B API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Restricted Eligibility Home Insurance Listing"
+    id="id-3f82864a14954fd191428c9051e8fc50"
+    documentation="AEM6.2 listing component due to be implemented for AEM6.5 by Aidos, current status/area/owner/health unknown">
+  <properties
+      key="Name"
+      value="Restricted Eligibility Home Insurance Listing"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

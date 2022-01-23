@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Product Data Tool - Publisher Service"
+    id="id-c7985fb1aa0349cbb091b2317f0c68a4"
+    documentation="PDT tool that will be replaced by Energy Kelvin project. Copies data from postgres to elastic search">
+  <properties
+      key="Name"
+      value="Energy Product Data Tool - Publisher Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

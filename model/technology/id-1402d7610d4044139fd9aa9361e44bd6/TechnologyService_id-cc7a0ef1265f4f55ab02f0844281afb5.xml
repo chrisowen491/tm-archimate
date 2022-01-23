@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadband Site"
+    id="id-cc7a0ef1265f4f55ab02f0844281afb5"
+    documentation="Broadband comparison site">
+  <properties
+      key="Name"
+      value="Broadband Site"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

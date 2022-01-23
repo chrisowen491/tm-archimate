@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invalid Event Reporter"
+    id="id-1a89fb89e20a4afa817a29063ffd73b7"
+    documentation="Internal reporting tool which sends email alerts to Squads to inform them of the number of kafka events which have failed validation">
+  <properties
+      key="Name"
+      value="Invalid Event Reporter"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

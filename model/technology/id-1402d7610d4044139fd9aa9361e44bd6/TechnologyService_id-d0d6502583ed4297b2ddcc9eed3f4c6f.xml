@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Student Loan Calculator"
+    id="id-d0d6502583ed4297b2ddcc9eed3f4c6f"
+    documentation="Tool for MSE Users to determine what their student loan repayments might be after graduation">
+  <properties
+      key="Name"
+      value="MSE User Tool - Student Loan Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

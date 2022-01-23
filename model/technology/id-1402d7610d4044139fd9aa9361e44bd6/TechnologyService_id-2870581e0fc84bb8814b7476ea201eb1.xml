@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepaid cards Listing"
+    id="id-2870581e0fc84bb8814b7476ea201eb1"
+    documentation="AEM6.2 listing component due to be implemented for AEM6.5 by Aidos, current status/area/owner/health unknown">
+  <properties
+      key="Name"
+      value="Prepaid cards Listing"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

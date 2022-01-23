@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Tax Code Checker"
+    id="id-c95d5eb8c9c34be08dd1f6d8de0881e2"
+    documentation="Tool for MSE Users to get some basic information about their tax code">
+  <properties
+      key="Name"
+      value="MSE User Tool - Tax Code Checker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

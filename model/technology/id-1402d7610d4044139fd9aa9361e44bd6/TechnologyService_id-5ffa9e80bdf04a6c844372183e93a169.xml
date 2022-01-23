@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Tracking Consumer"
+    id="id-5ffa9e80bdf04a6c844372183e93a169"
+    documentation="Service to consume sales related events and map them to CRM Events">
+  <properties
+      key="Name"
+      value="Sales Tracking Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

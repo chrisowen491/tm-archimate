@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thatcham Update Service"
+    id="id-e87d1c41ed33493eae4e1355d3394f3d"
+    documentation="scheduled job to fetch data from CDL, and transforms into MSM data with reference-data">
+  <properties
+      key="Name"
+      value="Thatcham Update Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

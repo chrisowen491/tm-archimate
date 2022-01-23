@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alert Service v2"
+    id="id-75209c7cb798406e9cba5e059d2cea7c"
+    documentation="Replacement for alert-service that can be used across verticals. Currently used in Nexus project">
+  <properties
+      key="Name"
+      value="Alert Service v2"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

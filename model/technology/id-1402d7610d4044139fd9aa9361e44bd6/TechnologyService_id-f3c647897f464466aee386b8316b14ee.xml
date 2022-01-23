@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Term Car insurance Listing"
+    id="id-f3c647897f464466aee386b8316b14ee"
+    documentation="AEM6.2 listing component due to be implemented for AEM6.5 by Aidos, current status/area/owner/health unknown">
+  <properties
+      key="Name"
+      value="Short Term Car insurance Listing"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

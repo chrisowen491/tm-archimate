@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Engine Home"
+    id="id-d214ee8cc41c4163b773c672ab6a98c5"
+    documentation="A combined public / private application deployed with the homeinsurance-providers mappers and channel config. Makes provider calls for enquiries, stores results and makes them available to the channel.">
+  <properties
+      key="Name"
+      value="Agg Engine Home"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

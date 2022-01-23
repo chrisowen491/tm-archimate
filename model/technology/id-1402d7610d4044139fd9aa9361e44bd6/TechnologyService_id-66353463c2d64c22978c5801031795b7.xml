@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Data Management Tool (Backoffice)"
+    id="id-66353463c2d64c22978c5801031795b7"
+    documentation="Internal to MSM tool to enter, stage, and deploy mapping and provider reference data">
+  <properties
+      key="Name"
+      value="Agg Data Management Tool (Backoffice)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

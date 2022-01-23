@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Partner Requote Consumer"
+    id="id-8f5939b575094963b64c6a856924448c"
+    documentation="The EPRC reads from an SQS queue, calls the Energy Partner Service to convert the payload into a Partner response and to apply the Deal Flags, then it uploads the translated requotes to an S3 bucket.">
+  <properties
+      key="Name"
+      value="Energy Partner Requote Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

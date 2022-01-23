@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Phoenix Credit Data Service"
+    id="id-bae73ddef2d14f18b9f0d6fb4f4f0b2e"
+    documentation="Retrieve and store customer's credit reports and communicate with Credit Report Agencies (TransUnion)">
+  <properties
+      key="Name"
+      value="Phoenix Credit Data Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Council Tax Estimator"
+    id="id-e859c4965c3940b8a2cf620a73c769b4"
+    documentation="Tool for MSE Users to get a very estimate of which Council Tax band they should be in">
+  <properties
+      key="Name"
+      value="MSE User Tool - Council Tax Estimator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

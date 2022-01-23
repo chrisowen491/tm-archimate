@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journey Tracking Consumer"
+    id="id-9b9d76ef40f44f91b1d00d6cf94ad32f"
+    documentation="Service to consume pageRequest events and map them to CRM Events">
+  <properties
+      key="Name"
+      value="Journey Tracking Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

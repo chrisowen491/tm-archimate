@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vehicle Lookup Service"
+    id="id-d232b8906bd34b40a5127670ab23c63c"
+    documentation="Provides vehicle Tax and MOT data supplied from Automotive Data Guru and the DVLA">
+  <properties
+      key="Name"
+      value="Vehicle Lookup Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Product Data Tool - App"
+    id="id-da4ec419e59649cc93bd97ea284eff0e"
+    documentation="Front end VueJs app used for PDT solution. Will be replaced by Kelvin solution">
+  <properties
+      key="Name"
+      value="Energy Product Data Tool - App"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

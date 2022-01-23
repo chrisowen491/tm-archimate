@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Data Exchange Service"
+    id="id-0040c945a7a640238595f80e5fcbddbf"
+    documentation="Backoffice service that processes/sends PIM events to the Event Service">
+  <properties
+      key="Name"
+      value="Money PIM Data Exchange Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

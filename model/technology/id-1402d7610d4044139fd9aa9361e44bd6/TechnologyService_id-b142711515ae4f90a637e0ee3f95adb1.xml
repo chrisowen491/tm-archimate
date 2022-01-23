@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="id-b142711515ae4f90a637e0ee3f95adb1"
+    documentation="This service manages applications &amp; fire events when application status changes">
+  <properties
+      key="Name"
+      value="Application Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

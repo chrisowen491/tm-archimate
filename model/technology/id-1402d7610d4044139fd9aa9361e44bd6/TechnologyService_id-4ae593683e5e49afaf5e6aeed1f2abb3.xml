@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - University Maintenance Ready Reckoner/Student living costs"
+    id="id-4ae593683e5e49afaf5e6aeed1f2abb3"
+    documentation="Tool for MSE Users to help parents calculate how much to save for their childrens' future university costs &amp; how much it will cost to live right now">
+  <properties
+      key="Name"
+      value="MSE User Tool - University Maintenance Ready Reckoner/Student living costs"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

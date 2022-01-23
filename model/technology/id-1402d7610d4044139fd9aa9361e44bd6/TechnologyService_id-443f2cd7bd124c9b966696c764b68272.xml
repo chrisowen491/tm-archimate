@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurance Alert Engine"
+    id="id-443f2cd7bd124c9b966696c764b68272"
+    documentation="A code deployment of the Alert Service, does car monitor alerts">
+  <properties
+      key="Name"
+      value="Insurance Alert Engine"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

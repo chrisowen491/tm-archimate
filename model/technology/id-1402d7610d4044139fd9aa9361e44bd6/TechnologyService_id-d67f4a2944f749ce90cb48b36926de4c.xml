@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Loan Switching Calculator"
+    id="id-d67f4a2944f749ce90cb48b36926de4c"
+    documentation="Tool for MSE Users to determine if a new loan is cheaper over time than existing debt">
+  <properties
+      key="Name"
+      value="MSE User Tool - Loan Switching Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

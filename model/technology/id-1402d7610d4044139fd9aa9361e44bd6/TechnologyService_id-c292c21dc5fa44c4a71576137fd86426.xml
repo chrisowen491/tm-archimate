@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Cards MSE"
+    id="id-c292c21dc5fa44c4a71576137fd86426"
+    documentation="Frontend VueJS app for MSE Cards QS and Results">
+  <properties
+      key="Name"
+      value="Credit Cards MSE"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

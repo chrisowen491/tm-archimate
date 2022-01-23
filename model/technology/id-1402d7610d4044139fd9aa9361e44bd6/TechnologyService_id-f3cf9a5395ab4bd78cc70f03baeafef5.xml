@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activity Worker"
+    id="id-f3cf9a5395ab4bd78cc70f03baeafef5"
+    documentation="This service consumes events from RabbitMQ, translates them into activities and then stores them in MongoDB, ready for the Activity Service to query those activities">
+  <properties
+      key="Name"
+      value="Activity Worker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

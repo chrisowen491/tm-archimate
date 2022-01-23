@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile Prompt Service"
+    id="id-d880acbc30464a6c91ba0a904c898c17"
+    documentation="Display customer prompts and onboarding in Mobile Apps">
+  <properties
+      key="Name"
+      value="Mobile Prompt Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

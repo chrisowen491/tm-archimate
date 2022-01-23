@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serenity Lambdas"
+    id="id-299d150e4e2a493e9b315492b74e65a9"
+    documentation="A collection of AWS Lambdas used to support Secondary CTA Tasks on the Dashboard">
+  <properties
+      key="Name"
+      value="Serenity Lambdas"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

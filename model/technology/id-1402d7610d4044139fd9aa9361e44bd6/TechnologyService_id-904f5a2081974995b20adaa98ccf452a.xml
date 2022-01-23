@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redirect Service"
+    id="id-904f5a2081974995b20adaa98ccf452a"
+    documentation="This is the Nginx cluster that performs reverse proxying and HTTP redirects for the clubs.moneysupermarket.com website">
+  <properties
+      key="Name"
+      value="Redirect Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile Account Service"
+    id="id-7624f6bce8484ff6b9949bcfdb0e34b6"
+    documentation="Store mobile app specific customer data - Monitoring Preferences is part of this atm">
+  <properties
+      key="Name"
+      value="Mobile Account Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

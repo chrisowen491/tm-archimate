@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Insurance Service - Pivot QuestionSet"
+    id="id-b1ec3dec19f24d76b712a85360ef35d4"
+    documentation="AEM Pivot microapp Frontend app for Home insurance Questionset">
+  <properties
+      key="Name"
+      value="Home Insurance Service - Pivot QuestionSet"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

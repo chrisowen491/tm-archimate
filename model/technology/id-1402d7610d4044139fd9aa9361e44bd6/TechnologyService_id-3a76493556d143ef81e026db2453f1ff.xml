@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Travel Advice Service"
+    id="id-3a76493556d143ef81e026db2453f1ff">
+  <properties
+      key="Name"
+      value="Travel Advice Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

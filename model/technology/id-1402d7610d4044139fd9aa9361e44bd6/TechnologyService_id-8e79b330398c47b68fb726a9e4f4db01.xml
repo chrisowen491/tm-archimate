@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CYTI Privacy App"
+    id="id-8e79b330398c47b68fb726a9e4f4db01">
+  <properties
+      key="Name"
+      value="CYTI Privacy App"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

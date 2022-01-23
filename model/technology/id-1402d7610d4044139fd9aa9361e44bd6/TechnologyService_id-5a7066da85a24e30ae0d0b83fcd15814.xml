@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Mortgage Holiday Calculator"
+    id="id-5a7066da85a24e30ae0d0b83fcd15814"
+    documentation="MSE Wrapper around Podium mortgage holiday calculator during COVID-19">
+  <properties
+      key="Name"
+      value="MSE User Tool - Mortgage Holiday Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

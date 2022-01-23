@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure App Insights Library"
+    id="id-1d394df9f8464c1a82d36e10182f2996">
+  <properties
+      key="Name"
+      value="Azure App Insights Library"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Product Service"
+    id="id-45cdf577852d449c93ba16ec639a26ee"
+    documentation="ElasticSearch wrapper that manages all queries of Money products (in K8s)">
+  <properties
+      key="Name"
+      value="Money Product Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

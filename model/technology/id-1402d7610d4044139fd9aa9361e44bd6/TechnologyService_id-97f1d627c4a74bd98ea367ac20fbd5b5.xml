@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Transformer"
+    id="id-97f1d627c4a74bd98ea367ac20fbd5b5"
+    documentation="Convert old versions of events to new common data structure until channels can move over to using new version">
+  <properties
+      key="Name"
+      value="Event Transformer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Local eBay Deal Mapper"
+    id="id-be6db9b621be4904b946076da521ca8f"
+    documentation="Tool for MSE Users to search for eBay deals near to their postcode">
+  <properties
+      key="Name"
+      value="MSE User Tool - Local eBay Deal Mapper"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

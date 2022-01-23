@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Travel Insurance Best Buys"
+    id="id-e4065170c9604170b4df6778a8705910"
+    documentation="Tool for MSE Users to get a quick list of Travel Insurance Best Buys (currently not live but about to be relaunched)">
+  <properties
+      key="Name"
+      value="MSE User Tool - Travel Insurance Best Buys"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

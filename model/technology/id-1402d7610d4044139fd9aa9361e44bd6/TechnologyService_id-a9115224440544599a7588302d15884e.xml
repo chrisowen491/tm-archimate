@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Publishing Service"
+    id="id-a9115224440544599a7588302d15884e"
+    documentation="Backoffice service that publishes to ElasticSearch the products managed by PIM">
+  <properties
+      key="Name"
+      value="Money PIM Publishing Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

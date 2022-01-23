@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Van Insurance"
+    id="id-3092d987e6b9493ba3578659598a40c2"
+    documentation="Front and back end app for van insurance">
+  <properties
+      key="Name"
+      value="Van Insurance"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

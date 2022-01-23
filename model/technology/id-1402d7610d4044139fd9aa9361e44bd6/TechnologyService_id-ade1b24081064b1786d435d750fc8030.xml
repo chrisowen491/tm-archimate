@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intelligent Renewal MIRE / HIRE"
+    id="id-ade1b24081064b1786d435d750fc8030"
+    documentation="Processes a queue of enquiries that will require a renewal email, and submits the new enquiries based on the previous ones to Agg for requote">
+  <properties
+      key="Name"
+      value="Intelligent Renewal MIRE / HIRE"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile Site"
+    id="id-ea0780d729f341bea75442dc5691ead8"
+    documentation="Mobile/sim buy comparison website">
+  <properties
+      key="Name"
+      value="Mobile Site"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Click Handling Service"
+    id="id-b7409cf86d024ceda28fa12f779ad806"
+    documentation="Orchestrates click handling and redirecting of deeplink response from the Money Service">
+  <properties
+      key="Name"
+      value="Money Click Handling Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation Public API"
+    id="id-1c5e6cf03a264c98afafa1d1050afdb3"
+    documentation="Services enquiry and result requests to the channels. Retrieves persisted enquiries and results.">
+  <properties
+      key="Name"
+      value="Aggregation Public API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

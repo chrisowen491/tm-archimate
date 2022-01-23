@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Requote Consumer"
+    id="id-8994b1b16898434daefbabcbc55d2aa8"
+    documentation="The energy re-quote consumer is responsible for:&#xA;&#xA;Reading re-quotes from SQS (put on by energy-requote-service)&#xA;Transforming a re-quote object into the corresponding classes for the files that we upload to Salesforce&#xA;Uploading temp batch CSV files to S3 for energy-requote-uploader to handle">
+  <properties
+      key="Name"
+      value="Energy Requote Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

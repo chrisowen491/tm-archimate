@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Generation Service"
+    id="id-444a0951119441bdbd59b9fc0959a5e2"
+    documentation="Generates IDD documents and sends postal versions of AboutOurService to customers - Insure only">
+  <properties
+      key="Name"
+      value="Document Generation Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

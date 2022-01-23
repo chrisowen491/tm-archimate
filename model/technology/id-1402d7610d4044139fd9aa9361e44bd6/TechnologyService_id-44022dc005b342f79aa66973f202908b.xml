@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile Deals API"
+    id="id-44022dc005b342f79aa66973f202908b"
+    documentation="API which provides deal information to the mobile sites">
+  <properties
+      key="Name"
+      value="Mobile Deals API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

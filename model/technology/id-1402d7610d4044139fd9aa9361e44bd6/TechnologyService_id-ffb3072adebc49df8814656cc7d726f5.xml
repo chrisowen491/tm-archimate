@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CYTI Platform Configuration UI (Back office)"
+    id="id-ffb3072adebc49df8814656cc7d726f5">
+  <properties
+      key="Name"
+      value="CYTI Platform Configuration UI (Back office)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

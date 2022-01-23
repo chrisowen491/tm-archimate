@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redirects service"
+    id="id-128254aa29ee493fa4371d36184c3925"
+    documentation="Handles redirects for old IP to retain SEO value">
+  <properties
+      key="Name"
+      value="Redirects service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

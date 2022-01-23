@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Account Broker Service"
+    id="id-da87ca1a3dc64f149ca969d8e71bd47d"
+    documentation="Brokers access to services to support account and profile managment">
+  <properties
+      key="Name"
+      value="MSE Account Broker Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

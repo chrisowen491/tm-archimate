@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Insurance Service - Falcon Platform"
+    id="id-93d695ca7e2847b79db6cfb3a6040f9e"
+    documentation="Falcon CDK platform ">
+  <properties
+      key="Name"
+      value="Home Insurance Service - Falcon Platform"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

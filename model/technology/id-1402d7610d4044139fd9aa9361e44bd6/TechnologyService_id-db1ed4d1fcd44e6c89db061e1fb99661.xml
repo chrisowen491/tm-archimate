@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Provider LikelyLoans Proxy"
+    id="id-db1ed4d1fcd44e6c89db061e1fb99661"
+    documentation="Custom orchestration of LikelyLoans provider specific authentication API's">
+  <properties
+      key="Name"
+      value="Money Provider LikelyLoans Proxy"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

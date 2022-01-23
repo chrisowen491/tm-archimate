@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recycling Deals API"
+    id="id-cc30a0abb10d4f7588415ca1c4beb562"
+    documentation="API which provides deal information to the recycling sites">
+  <properties
+      key="Name"
+      value="Recycling Deals API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

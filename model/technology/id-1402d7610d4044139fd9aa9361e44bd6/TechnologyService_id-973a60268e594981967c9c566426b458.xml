@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Bank Interest Reclaim Calculator"
+    id="id-973a60268e594981967c9c566426b458"
+    documentation="Tool for MSE Users to calculate how much they may be able to reclaim from bank mis-selling">
+  <properties
+      key="Name"
+      value="MSE User Tool - Bank Interest Reclaim Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

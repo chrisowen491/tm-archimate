@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWIN Lambda"
+    id="id-3f59fc62089948308bb705777a7a8454"
+    documentation="provides the S2S integration layer for AWIN">
+  <properties
+      key="Name"
+      value="AWIN Lambda"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

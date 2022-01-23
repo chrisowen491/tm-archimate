@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recycling Site"
+    id="id-10af5411a9b44b318e51e40f8478336e"
+    documentation="Website for recycling sites sellmymobile.com and comparemymobile.com">
+  <properties
+      key="Name"
+      value="Recycling Site"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

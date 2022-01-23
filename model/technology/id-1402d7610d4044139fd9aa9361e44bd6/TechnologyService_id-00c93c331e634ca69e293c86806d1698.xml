@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pet Insurance UI"
+    id="id-00c93c331e634ca69e293c86806d1698">
+  <properties
+      key="Name"
+      value="Pet Insurance UI"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

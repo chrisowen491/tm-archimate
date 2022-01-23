@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Income Tax Calculator"
+    id="id-8699d5b8078247a4a0437649d873703a"
+    documentation="Tool for MSE Users to calculate tax / NI / take home pay based on their earnings and tax code">
+  <properties
+      key="Name"
+      value="MSE User Tool - Income Tax Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

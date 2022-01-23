@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Application Delivery Service"
+    id="id-af0c6a34dab24b7cbcb696d2c38cf269"
+    documentation="This service sends applications to provider in real time using REST Api">
+  <properties
+      key="Name"
+      value="Energy Application Delivery Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

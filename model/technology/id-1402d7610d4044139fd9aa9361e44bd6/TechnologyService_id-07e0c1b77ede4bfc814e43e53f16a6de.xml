@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Overseas Card Fees Checker"
+    id="id-07e0c1b77ede4bfc814e43e53f16a6de"
+    documentation="Tool for MSE Users to determine the fees their credit cards apply to overseas payments">
+  <properties
+      key="Name"
+      value="MSE User Tool - Overseas Card Fees Checker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

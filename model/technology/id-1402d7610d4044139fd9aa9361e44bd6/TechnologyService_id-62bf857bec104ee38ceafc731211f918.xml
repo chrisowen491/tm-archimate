@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Token Service"
+    id="id-62bf857bec104ee38ceafc731211f918"
+    documentation="Manages tokens which are used for authentication such as forgotten password, auto log in from instant emails, etc">
+  <properties
+      key="Name"
+      value="Token Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

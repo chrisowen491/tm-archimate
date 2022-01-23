@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Monitoring Service"
+    id="id-658ae48933784fb98342223fd094fa97"
+    documentation="This service integrate with electralink to provide status of energy switch application">
+  <properties
+      key="Name"
+      value="Energy Monitoring Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

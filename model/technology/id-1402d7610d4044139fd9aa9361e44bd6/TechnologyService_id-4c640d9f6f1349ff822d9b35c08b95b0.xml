@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Affgator"
+    id="id-4c640d9f6f1349ff822d9b35c08b95b0"
+    documentation="MSE internal tool used by commercial/data teams to pull data from Affiliate providers and compare results against known click data">
+  <properties
+      key="Name"
+      value="MSE Affgator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

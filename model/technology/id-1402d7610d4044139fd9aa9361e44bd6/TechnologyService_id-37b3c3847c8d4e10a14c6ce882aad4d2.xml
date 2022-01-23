@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DT Content API"
+    id="id-37b3c3847c8d4e10a14c6ce882aad4d2"
+    documentation="Content API to provide copy for pages on various DT sites backed which is layer on top of Umbraco">
+  <properties
+      key="Name"
+      value="DT Content API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

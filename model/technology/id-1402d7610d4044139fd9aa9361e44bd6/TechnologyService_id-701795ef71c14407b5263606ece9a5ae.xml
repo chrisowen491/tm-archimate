@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Profile Update Service"
+    id="id-701795ef71c14407b5263606ece9a5ae"
+    documentation="Listens to channel events and update the customer profile based on new details in each event">
+  <properties
+      key="Name"
+      value="Profile Update Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

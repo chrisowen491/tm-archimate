@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jenkins Jobs for RTBF  GDPR requests"
+    id="id-178c76ed16904fe0bd22537958af7e93"
+    documentation="Solution hacked together in jenkins for the customer services team to action RTBF requests">
+  <properties
+      key="Name"
+      value="Jenkins Jobs for RTBF  GDPR requests"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claims Rated Integration Service"
+    id="id-d6122b0efb7c4c8fb48b8029af059148">
+  <properties
+      key="Name"
+      value="Claims Rated Integration Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

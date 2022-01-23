@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DT Rewards"
+    id="id-8bc65718162347c8bd72ce7863f1dee6"
+    documentation="Interstitial page for customers to apply for rewards associated with Broadband deals">
+  <properties
+      key="Name"
+      value="DT Rewards"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

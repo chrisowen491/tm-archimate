@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Travel Insurance Monolith"
+    id="id-72866d05c5d54df0beccab3f7d6f17fa">
+  <properties
+      key="Name"
+      value="Travel Insurance Monolith"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

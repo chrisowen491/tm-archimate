@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Service"
+    id="id-d827f1e70d5a45f8893312774eaf647f"
+    documentation="Legacy version of the event service which provides as a gateway for all event related data into Kafka. &#xA;&#xA;Currently being used for saving events to gluster so that they can be uploaded to s3&#xA;&#xA;Also has related service event task schedular responsible for triggering home, loans, and credit cards instant emails. this service can be decomissioned when we move to braze">
+  <properties
+      key="Name"
+      value="Event Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

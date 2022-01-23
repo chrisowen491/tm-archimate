@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Application Export Service"
+    id="id-555f6b79fc6641b89c4c8225ab8092f3"
+    documentation="This service sends applications to provider periodically via SFTP upload">
+  <properties
+      key="Name"
+      value="Energy Application Export Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

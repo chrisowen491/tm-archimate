@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Proxy"
+    id="id-a641276b9a864c259aac39239b3a1d1d"
+    documentation="Allows switching of new enquiries between the existing Public API and Agg Engine">
+  <properties
+      key="Name"
+      value="Agg Proxy"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

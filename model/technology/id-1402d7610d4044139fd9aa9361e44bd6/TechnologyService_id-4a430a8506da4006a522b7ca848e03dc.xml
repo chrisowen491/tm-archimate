@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingestion Service"
+    id="id-4a430a8506da4006a522b7ca848e03dc"
+    documentation="Periodically downloads feeds from providers and maps to deals for mobile/SIM/recycling">
+  <properties
+      key="Name"
+      value="Ingestion Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

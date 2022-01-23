@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Application Salesforce Job"
+    id="id-6512c600a54742a3bb7c46f231ab0d1f"
+    documentation="This service upload application data to salesforce &amp; S3 ">
+  <properties
+      key="Name"
+      value="Energy Application Salesforce Job"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

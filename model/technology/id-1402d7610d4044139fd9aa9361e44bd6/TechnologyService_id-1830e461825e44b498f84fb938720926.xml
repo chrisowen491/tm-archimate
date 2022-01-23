@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Borrowing Cost Calculator"
+    id="id-1830e461825e44b498f84fb938720926"
+    documentation="Tool for MSE Users to quickly calculate cost of debt at a set interest rate for a set number of months">
+  <properties
+      key="Name"
+      value="MSE User Tool - Borrowing Cost Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

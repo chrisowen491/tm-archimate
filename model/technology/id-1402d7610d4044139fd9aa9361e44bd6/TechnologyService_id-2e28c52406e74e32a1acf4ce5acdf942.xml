@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CYTI Travel Reporting"
+    id="id-2e28c52406e74e32a1acf4ce5acdf942"
+    documentation="Deprecated but still in use">
+  <properties
+      key="Name"
+      value="CYTI Travel Reporting"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

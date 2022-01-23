@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Pension calculator widget"
+    id="id-aea969cfb2a64351815aa9e8f8a052e2"
+    documentation="Tool for MSE Users to see rough impact on tax of employer pension scheme">
+  <properties
+      key="Name"
+      value="MSE User Tool - Pension calculator widget"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

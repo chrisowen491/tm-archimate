@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peer to Peer Listing"
+    id="id-b6eb9dcae92f43f695be4c95568c69a2"
+    documentation="AEM6.2 listing component due to be implemented for AEM6.5 by Aidos, current status/area/owner/health unknown">
+  <properties
+      key="Name"
+      value="Peer to Peer Listing"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

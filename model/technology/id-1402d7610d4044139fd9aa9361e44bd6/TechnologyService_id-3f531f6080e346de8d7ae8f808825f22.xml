@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Router"
+    id="id-3f531f6080e346de8d7ae8f808825f22"
+    documentation="Sits in front of the event service v2 and separates events onto separate topics.">
+  <properties
+      key="Name"
+      value="Event Router"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Personal Loan Calculator"
+    id="id-0743ad2e9dfb47cdbb46b92e30d62128"
+    documentation="Tool for MSE Users to determine how much they can borrow / what a loan would cost / compare loan switching">
+  <properties
+      key="Name"
+      value="MSE User Tool - Personal Loan Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

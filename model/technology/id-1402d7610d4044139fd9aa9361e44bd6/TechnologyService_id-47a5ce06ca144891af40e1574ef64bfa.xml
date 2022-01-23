@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Renters Insurance"
+    id="id-47a5ce06ca144891af40e1574ef64bfa"
+    documentation="Frontend VueJS app for renters insurance LP + QS + Results">
+  <properties
+      key="Name"
+      value="Renters Insurance"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

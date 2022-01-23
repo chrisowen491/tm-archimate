@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Audit Service"
+    id="id-4e849f6d3a3d445e97ba39a33b92ff90"
+    documentation="Backoffice service that records all published versions of PIM products">
+  <properties
+      key="Name"
+      value="Money PIM Audit Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

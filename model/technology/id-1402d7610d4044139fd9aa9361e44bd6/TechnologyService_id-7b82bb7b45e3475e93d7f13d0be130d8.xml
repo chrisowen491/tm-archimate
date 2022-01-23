@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CYTI Utility"
+    id="id-7b82bb7b45e3475e93d7f13d0be130d8"
+    documentation="Dummy providers etc">
+  <properties
+      key="Name"
+      value="CYTI Utility"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

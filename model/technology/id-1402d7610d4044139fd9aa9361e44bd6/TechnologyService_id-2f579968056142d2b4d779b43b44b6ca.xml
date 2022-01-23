@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Cookie Consent"
+    id="id-2f579968056142d2b4d779b43b44b6ca"
+    documentation="Cookie Banner for {www,forums}.moneysavingexpert.com">
+  <properties
+      key="Name"
+      value="MSE Cookie Consent"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

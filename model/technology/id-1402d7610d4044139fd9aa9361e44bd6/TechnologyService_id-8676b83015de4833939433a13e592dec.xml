@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Premium Bonds"
+    id="id-8676b83015de4833939433a13e592dec"
+    documentation="Tool for MSE Users to find information about odds of winning premium bonds and to compare their luck">
+  <properties
+      key="Name"
+      value="MSE User Tool - Premium Bonds"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

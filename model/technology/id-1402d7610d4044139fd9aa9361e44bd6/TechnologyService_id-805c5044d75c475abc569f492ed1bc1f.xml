@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Engine Loans"
+    id="id-805c5044d75c475abc569f492ed1bc1f"
+    documentation="A combined public / private application deployed with the loans-providers mappers and channel config. Makes provider calls for enquiries, stores results and makes them available to the channel.">
+  <properties
+      key="Name"
+      value="Agg Engine Loans"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

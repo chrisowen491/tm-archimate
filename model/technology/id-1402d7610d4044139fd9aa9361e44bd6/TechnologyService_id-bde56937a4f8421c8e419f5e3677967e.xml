@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enquiry Service"
+    id="id-bde56937a4f8421c8e419f5e3677967e"
+    documentation="Store channel specific enquiries and recent quotes. Vast majority used by Energy, but has data for MyProfile service">
+  <properties
+      key="Name"
+      value="Enquiry Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

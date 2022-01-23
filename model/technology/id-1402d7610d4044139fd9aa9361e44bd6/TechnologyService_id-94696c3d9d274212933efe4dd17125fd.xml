@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Travel Money Max (TMM)"
+    id="id-94696c3d9d274212933efe4dd17125fd"
+    documentation="Tool for MSE Users to find and compare the best travel money exchange rates">
+  <properties
+      key="Name"
+      value="Travel Money Max (TMM)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Affiliate Network"
+    id="id-edeb0a3b0c1a4ed9a877d830f7cb0c80"
+    documentation="Sends recycling orders to buyers and adds additional functionality to price capping within Cake.">
+  <properties
+      key="Name"
+      value="Affiliate Network"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

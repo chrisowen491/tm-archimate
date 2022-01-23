@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Insurance Service - Falcon questionset"
+    id="id-5f7c5bc1e03744c69cab4cdff625915a"
+    documentation="Front and back end app for Home insurance Questionset">
+  <properties
+      key="Name"
+      value="Home Insurance Service - Falcon questionset"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messaging Service"
+    id="id-96913bb19a6849c8b433b0e7529148d2"
+    documentation="Sends instant emails for some channels - will be replaced by Braze platform services">
+  <properties
+      key="Name"
+      value="Messaging Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

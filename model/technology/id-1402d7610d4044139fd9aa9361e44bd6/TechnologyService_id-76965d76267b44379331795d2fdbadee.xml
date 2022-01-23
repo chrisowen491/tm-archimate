@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Product Data Tool - Importer Service"
+    id="id-76965d76267b44379331795d2fdbadee"
+    documentation="PDT tool that will be replaced by Energy Kelvin project. Imports from legacy BOT to postgres db">
+  <properties
+      key="Name"
+      value="Energy Product Data Tool - Importer Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

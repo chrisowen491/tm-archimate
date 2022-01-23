@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data Service"
+    id="id-ac08ed24e89e40f494aff9022bf677bd"
+    documentation="Stores static lists of reference data which are used by multiple channels and the EDW, vehicle lookup component, rebuild calculator, WeKnowThatProperty">
+  <properties
+      key="Name"
+      value="Reference Data Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

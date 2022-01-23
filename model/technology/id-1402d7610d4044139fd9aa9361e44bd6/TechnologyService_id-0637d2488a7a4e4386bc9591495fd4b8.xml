@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component Service/s"
+    id="id-0637d2488a7a4e4386bc9591495fd4b8"
+    documentation="NodeJS service acts as an SSR layer for VueJS components">
+  <properties
+      key="Name"
+      value="Component Service/s"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

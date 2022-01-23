@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enquiry Results Joiner"
+    id="id-e785955cf8904261bf892509f726cbe2"
+    documentation="Used for Events Responsible for joining enquiry and results events for all channels">
+  <properties
+      key="Name"
+      value="Enquiry Results Joiner"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

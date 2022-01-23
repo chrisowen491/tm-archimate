@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesdata Chaser"
+    id="id-daa9d91d0d8b4a3a9038dc0f33b99186"
+    documentation="Sends emails to provider for missing uploaded files">
+  <properties
+      key="Name"
+      value="Salesdata Chaser"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

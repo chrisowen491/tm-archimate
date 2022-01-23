@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadband API"
+    id="id-c7d5e717088e49d0be95dc76daa2ffd6"
+    documentation="API which provides deal information to the broadband sites">
+  <properties
+      key="Name"
+      value="Broadband API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

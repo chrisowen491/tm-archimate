@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor Renewal Consumer"
+    id="id-160f06b320d34e75b44edfae0a862623"
+    documentation="Service responsible for motor renewals and has two features.&#xA;&#xA;Consume enquiryIds from SQS and age enquiries&#xA;Consume renewed enquiry's and map them to CRM events">
+  <properties
+      key="Name"
+      value="Motor Renewal Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

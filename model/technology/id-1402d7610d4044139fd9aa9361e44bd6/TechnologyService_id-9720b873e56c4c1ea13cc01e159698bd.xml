@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post Office API"
+    id="id-9720b873e56c4c1ea13cc01e159698bd"
+    documentation="Prepopulate Post Office Smart Search">
+  <properties
+      key="Name"
+      value="Post Office API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Mortgage Best Buys"
+    id="id-17030b76631645e6b74042821e5c9778"
+    documentation="Does a market search for mortgage rates">
+  <properties
+      key="Name"
+      value="MSE User Tool - Mortgage Best Buys"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

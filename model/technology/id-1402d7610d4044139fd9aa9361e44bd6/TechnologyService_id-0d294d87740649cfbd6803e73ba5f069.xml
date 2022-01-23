@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Service"
+    id="id-0d294d87740649cfbd6803e73ba5f069"
+    documentation="Holds user credentials and profile related information ">
+  <properties
+      key="Name"
+      value="Account Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

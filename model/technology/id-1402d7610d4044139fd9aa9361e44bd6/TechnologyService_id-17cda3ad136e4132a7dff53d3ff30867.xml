@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Service Tool"
+    id="id-17cda3ad136e4132a7dff53d3ff30867"
+    documentation="Backoffice tool for customer service team to lookup customers and perform some actions such as auto-signin, Braze blacklisting">
+  <properties
+      key="Name"
+      value="Customer Service Tool"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

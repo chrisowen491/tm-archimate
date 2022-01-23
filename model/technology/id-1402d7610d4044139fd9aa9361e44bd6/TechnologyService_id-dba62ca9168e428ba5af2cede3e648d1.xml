@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesdata Importer"
+    id="id-dba62ca9168e428ba5af2cede3e648d1"
+    documentation="Loads EDW matching data for Salesdata">
+  <properties
+      key="Name"
+      value="Salesdata Importer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

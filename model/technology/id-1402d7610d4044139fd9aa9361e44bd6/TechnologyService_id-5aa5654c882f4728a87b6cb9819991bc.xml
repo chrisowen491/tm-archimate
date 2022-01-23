@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Preference Service"
+    id="id-5aa5654c882f4728a87b6cb9819991bc"
+    documentation="Part of consent. Skeleton service to consolidate email/push marketing opt-in and monitoring preferences - Paused">
+  <properties
+      key="Name"
+      value="Contact Preference Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

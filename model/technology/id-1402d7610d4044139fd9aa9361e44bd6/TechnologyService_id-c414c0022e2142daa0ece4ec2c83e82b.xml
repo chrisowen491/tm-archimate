@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEC Worker"
+    id="id-c414c0022e2142daa0ece4ec2c83e82b"
+    documentation="This is a Cloudflare worker that serves the Vue.js Single Page App (SPA) for the Cheap Energy Club landing page">
+  <properties
+      key="Name"
+      value="CEC Worker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

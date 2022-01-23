@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Edit Switch Details Page"
+    id="id-12439ac5f1c6453f904e3e7978448e98"
+    documentation="This is frontend micro app that help user update switch details for them">
+  <properties
+      key="Name"
+      value="Energy Edit Switch Details Page"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

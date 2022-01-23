@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Optimizely worker"
+    id="id-575cf652c88449dbad9426f6d32326de"
+    documentation="Cloudflare RP onto Optimizely Performance Edge">
+  <properties
+      key="Name"
+      value="Optimizely worker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

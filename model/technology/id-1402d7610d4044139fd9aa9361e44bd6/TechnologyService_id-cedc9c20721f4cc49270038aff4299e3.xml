@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nexus Service"
+    id="id-cedc9c20721f4cc49270038aff4299e3"
+    documentation="Nexus provides energy specific business logic on to of alert-service-v2. ">
+  <properties
+      key="Name"
+      value="Nexus Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postcode Geocoder"
+    id="id-07f86d331ad143a0a7b50784fe0dd2da"
+    documentation="Convert Postcode into Long/Lat values for distance computation in TMM">
+  <properties
+      key="Name"
+      value="Postcode Geocoder"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor Insurance Service"
+    id="id-2b456c770306419fb95ca344dd112c3a"
+    documentation="Front and back end app for car insurance">
+  <properties
+      key="Name"
+      value="Motor Insurance Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

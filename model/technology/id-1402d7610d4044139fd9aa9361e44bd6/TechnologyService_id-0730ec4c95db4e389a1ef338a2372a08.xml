@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Form Fill Service"
+    id="id-0730ec4c95db4e389a1ef338a2372a08"
+    documentation="A proxy service which retrieves profile related data using GraphQL">
+  <properties
+      key="Name"
+      value="Form Fill Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

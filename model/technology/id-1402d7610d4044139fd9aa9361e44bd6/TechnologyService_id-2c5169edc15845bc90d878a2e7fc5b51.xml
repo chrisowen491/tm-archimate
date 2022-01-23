@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITP Worker"
+    id="id-2c5169edc15845bc90d878a2e7fc5b51"
+    documentation="Cloudflare worker - re-sets certain third party cookies as first party server cookies -bypasses ITP">
+  <properties
+      key="Name"
+      value="ITP Worker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Balance Transfer Calculator"
+    id="id-27336832b8424462961d3e63c0a38797"
+    documentation="Tool for MSE Users to compare balance transfer cards to determine payoff length/cost ">
+  <properties
+      key="Name"
+      value="MSE User Tool - Balance Transfer Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

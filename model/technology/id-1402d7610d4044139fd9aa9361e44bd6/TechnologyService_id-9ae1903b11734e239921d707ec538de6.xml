@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEC Event Broker"
+    id="id-9ae1903b11734e239921d707ec538de6"
+    documentation="This is broker for all events for CEC apps and send events to Event Service">
+  <properties
+      key="Name"
+      value="CEC Event Broker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMS"
+    id="id-3487c4c8a24146558d1d86f04f0f8cec"
+    documentation="Redirect Management Service - Our bespoke traffic routing service">
+  <properties
+      key="Name"
+      value="RMS"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alert Service"
+    id="id-fb146b39277640828f4281bf01a6d8f2"
+    documentation="This service manages alerts, updates standard tariff job &amp; starts requote">
+  <properties
+      key="Name"
+      value="Alert Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy CRM Data Provider"
+    id="id-6b99d029dc4641f2827cda834045fba1">
+  <properties
+      key="Name"
+      value="Energy CRM Data Provider"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

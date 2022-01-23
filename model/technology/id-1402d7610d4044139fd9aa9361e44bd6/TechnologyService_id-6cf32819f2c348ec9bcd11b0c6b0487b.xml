@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Insight Service fork"
+    id="id-6cf32819f2c348ec9bcd11b0c6b0487b"
+    documentation=" This is a Graph QL Based service for obtaining data from multiple sources.">
+  <properties
+      key="Name"
+      value="User Insight Service fork"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy backoffice tool (CAT)"
+    id="id-b2eeedcf5e8b4694b2e70b0eb3fd1466"
+    documentation="Customer backend tool that allows callcentre staff to assist customers">
+  <properties
+      key="Name"
+      value="Energy backoffice tool (CAT)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

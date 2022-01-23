@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor History Consumer"
+    id="id-17fb83977108455a86b4a09817a74aac"
+    documentation="processes the resultAggregate event from kafka and saves to user's profile history.">
+  <properties
+      key="Name"
+      value="Motor History Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

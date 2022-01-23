@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE APIGEE Endpoints - Page Impression pixel etc"
+    id="id-fb584eb798cd49a088f9701f3a4b5b04"
+    documentation="Pixel for recording page impression and setting visitorId/source cookies (unsure what others still used)">
+  <properties
+      key="Name"
+      value="MSE APIGEE Endpoints - Page Impression pixel etc"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alert Engine"
+    id="id-d754db2ba8b04462a2aee79aa2b83270"
+    documentation="Alert Engine, service live in the same repo">
+  <properties
+      key="Name"
+      value="Alert Engine"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

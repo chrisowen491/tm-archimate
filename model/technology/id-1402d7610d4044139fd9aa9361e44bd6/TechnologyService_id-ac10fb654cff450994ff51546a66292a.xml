@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Term Event Persistence Service (S.T.E.P.S)"
+    id="id-ac10fb654cff450994ff51546a66292a"
+    documentation="Config driven kafka listener that populates events into a DynamoDB">
+  <properties
+      key="Name"
+      value="Short Term Event Persistence Service (S.T.E.P.S)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

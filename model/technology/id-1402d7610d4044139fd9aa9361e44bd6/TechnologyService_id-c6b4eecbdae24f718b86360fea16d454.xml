@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Service"
+    id="id-c6b4eecbdae24f718b86360fea16d454"
+    documentation="Stores versions of T&amp;Cs and their acceptance by users and also stores contact preferences, acting as the master for apps, web and Braze">
+  <properties
+      key="Name"
+      value="Consent Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

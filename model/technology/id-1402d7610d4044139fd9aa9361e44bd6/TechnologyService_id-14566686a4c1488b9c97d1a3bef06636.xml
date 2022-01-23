@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manual Vehicle Lookup Service"
+    id="id-14566686a4c1488b9c97d1a3bef06636"
+    documentation="querying the data in the service via the same manual vehicle lookup api as we have today.">
+  <properties
+      key="Name"
+      value="Manual Vehicle Lookup Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

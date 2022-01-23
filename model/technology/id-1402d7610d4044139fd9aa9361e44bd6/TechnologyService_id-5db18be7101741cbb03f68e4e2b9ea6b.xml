@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Affiliiate Link Tracking (MAFF)"
+    id="id-5db18be7101741cbb03f68e4e2b9ea6b"
+    documentation="MSE internal tool used to manage commercial paid links on the site, manage redirects, track paid clicks off site">
+  <properties
+      key="Name"
+      value="MSE Affiliiate Link Tracking (MAFF)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

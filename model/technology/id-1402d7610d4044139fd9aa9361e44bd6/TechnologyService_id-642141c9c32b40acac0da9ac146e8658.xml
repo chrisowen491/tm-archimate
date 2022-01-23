@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Static Ref Data Lists (Lambda)"
+    id="id-642141c9c32b40acac0da9ac146e8658"
+    documentation="This service creates a set of endpoints to allow access to static reference lists stored in DynamoDB (e.g. occupation, purpose of loan)">
+  <properties
+      key="Name"
+      value="Static Ref Data Lists (Lambda)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

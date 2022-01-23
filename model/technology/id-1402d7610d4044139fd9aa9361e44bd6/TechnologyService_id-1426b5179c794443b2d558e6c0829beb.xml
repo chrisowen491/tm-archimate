@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propensity Lambdas"
+    id="id-1426b5179c794443b2d558e6c0829beb"
+    documentation="Lambdas used as part of the ETL Process of Propensity Data">
+  <properties
+      key="Name"
+      value="Propensity Lambdas"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

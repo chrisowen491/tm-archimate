@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Phoenix broker"
+    id="id-7c7575c3e61a4e9f95e53237e9b90612"
+    documentation="Credit Monitor service for signing up customers and serving up their credit report and alerts.">
+  <properties
+      key="Name"
+      value="Phoenix broker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

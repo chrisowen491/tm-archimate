@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Regular Savings Calculator"
+    id="id-ca8d459b725b42c792e6dd0fb2972108"
+    documentation="Tool for MSE Users to calculate how savings will grow - particular with regular saver accounts">
+  <properties
+      key="Name"
+      value="MSE User Tool - Regular Savings Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

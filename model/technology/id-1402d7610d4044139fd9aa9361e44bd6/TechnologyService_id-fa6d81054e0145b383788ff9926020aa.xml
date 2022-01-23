@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Callback Service "
+    id="id-fa6d81054e0145b383788ff9926020aa"
+    documentation="Passes the data in applicationStatusUpdate events to the Energy B2B stack.">
+  <properties
+      key="Name"
+      value="Energy Callback Service "/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Feed Transformation Service"
+    id="id-8da0c4297ae14bf9a98ffb361c72b399"
+    documentation="Backoffice service that processes external money product feeds into money products' structure">
+  <properties
+      key="Name"
+      value="Money PIM Feed Transformation Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

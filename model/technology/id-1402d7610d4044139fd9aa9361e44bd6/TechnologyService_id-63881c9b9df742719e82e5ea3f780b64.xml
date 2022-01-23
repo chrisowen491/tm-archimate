@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Session Service"
+    id="id-63881c9b9df742719e82e5ea3f780b64"
+    documentation="Manages session state for web applications including determining whether a user is authenticated. Can also store additional session related data">
+  <properties
+      key="Name"
+      value="Session Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="providers-oauth-proxy"
+    id="id-f596da1ad4db482582a4f2be4d366aaa"
+    documentation="Proxies calls to providers that require oauth credentials, and forwards the credentials on the provider request">
+  <properties
+      key="Name"
+      value="providers-oauth-proxy"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

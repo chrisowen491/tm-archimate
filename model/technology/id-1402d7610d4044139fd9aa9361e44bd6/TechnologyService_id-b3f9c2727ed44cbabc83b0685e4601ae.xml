@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Current Accounts MSM App"
+    id="id-b3f9c2727ed44cbabc83b0685e4601ae"
+    documentation="Frontend VueJS app for MSM Current Accounts results">
+  <properties
+      key="Name"
+      value="Current Accounts MSM App"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Management Agent"
+    id="id-3b31c320ba234f5e97a15752c7dcb2cd"
+    documentation="Internal to MSM service that coordinates the deployment of reference data that's been configured via Backoffice to running private API / Agg Engines">
+  <properties
+      key="Name"
+      value="Agg Management Agent"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

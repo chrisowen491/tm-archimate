@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Service"
+    id="id-eeb87d890515496e97ad85b365f19873"
+    documentation="Send reminders when policy is used for renewal - Store customer policy documents and setup monitoring alerts for Energy and Car">
+  <properties
+      key="Name"
+      value="Document Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Engine Credit Cards"
+    id="id-502c7f894616465fbae59e3c0ac023a2"
+    documentation="A combined public / private application deployed with the creditcards-providers mappers and channel config. Makes provider calls for enquiries, stores results and makes them available to the channel.">
+  <properties
+      key="Name"
+      value="Agg Engine Credit Cards"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

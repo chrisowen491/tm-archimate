@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Ultimate Mortgage Calculators"
+    id="id-4eb259224dd54c90949dc79f16312704"
+    documentation="Tool for MSE Users to calculate and compare costs related to various mortgage products (bundle of 8 calculators)">
+  <properties
+      key="Name"
+      value="MSE User Tool - Ultimate Mortgage Calculators"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

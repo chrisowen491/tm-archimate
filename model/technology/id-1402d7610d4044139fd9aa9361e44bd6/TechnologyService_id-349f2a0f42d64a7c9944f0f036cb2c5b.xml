@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor Instant Email Consumer"
+    id="id-349f2a0f42d64a7c9944f0f036cb2c5b"
+    documentation="processes the resultAggregate event from kafka and sends instant email">
+  <properties
+      key="Name"
+      value="Motor Instant Email Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

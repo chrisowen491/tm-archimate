@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rabbit Insurance Listing"
+    id="id-953e6db6d4534baca27f8a5c7f616cf1"
+    documentation="AEM6.2 listing component due to be implemented for AEM6.5 by Aidos, current status/area/owner/health unknown">
+  <properties
+      key="Name"
+      value="Rabbit Insurance Listing"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

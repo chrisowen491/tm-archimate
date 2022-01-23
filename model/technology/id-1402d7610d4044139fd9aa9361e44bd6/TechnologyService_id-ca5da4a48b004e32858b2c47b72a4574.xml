@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loans MSM"
+    id="id-ca5da4a48b004e32858b2c47b72a4574"
+    documentation="Frontend VueJS app for MSM Loans QS and Results">
+  <properties
+      key="Name"
+      value="Loans MSM"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="core-site-assets"
+    id="id-2df75785d7ee411d8b16d9fc202e0c4b"
+    documentation="msm.affliliiates and msm.braze libraries">
+  <properties
+      key="Name"
+      value="core-site-assets"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

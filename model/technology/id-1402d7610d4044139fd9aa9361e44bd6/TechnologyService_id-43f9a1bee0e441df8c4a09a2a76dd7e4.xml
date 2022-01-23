@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Savings Calculator"
+    id="id-43f9a1bee0e441df8c4a09a2a76dd7e4"
+    documentation="Tool for MSE User to compare savings options">
+  <properties
+      key="Name"
+      value="MSE User Tool - Savings Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

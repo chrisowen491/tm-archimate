@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Renewal Consumer"
+    id="id-9312c496d69649b8a60015105bf09c11"
+    documentation="Service to consume home enquiry ids from SQS and do an aged re-quote.">
+  <properties
+      key="Name"
+      value="Home Renewal Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy MSE Extras"
+    id="id-43ced234c1cd4ffbb25b3e3c5d8c265b"
+    documentation="Additional MSE specific functionality for the energy vertical">
+  <properties
+      key="Name"
+      value="Energy MSE Extras"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

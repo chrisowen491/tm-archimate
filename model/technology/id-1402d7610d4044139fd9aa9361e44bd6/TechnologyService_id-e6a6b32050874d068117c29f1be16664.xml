@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEC API"
+    id="id-e6a6b32050874d068117c29f1be16664"
+    documentation="API that provide details for user account, address, enquiry &amp; results ">
+  <properties
+      key="Name"
+      value="CEC API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

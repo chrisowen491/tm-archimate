@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Weighted Sort Lambda"
+    id="id-e8c6457b470a4c84b40b30f6db58b343"
+    documentation="Weighted sort calculation for processing results for &quot;Our Best for You&quot; in Borrowing journeys">
+  <properties
+      key="Name"
+      value="Money Weighted Sort Lambda"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

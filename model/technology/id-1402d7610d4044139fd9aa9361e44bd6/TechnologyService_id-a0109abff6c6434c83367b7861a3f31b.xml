@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile App Broker "
+    id="id-a0109abff6c6434c83367b7861a3f31b"
+    documentation="Broker service for Mobile Apps">
+  <properties
+      key="Name"
+      value="Mobile App Broker "/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

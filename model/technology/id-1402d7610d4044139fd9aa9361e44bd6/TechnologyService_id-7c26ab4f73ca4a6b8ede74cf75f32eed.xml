@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Requote Service (ERS)"
+    id="id-7c26ab4f73ca4a6b8ede74cf75f32eed"
+    documentation="See Intelligent renewal service https://confluence1-eu1.moneysupermarketgroup.com/pages/viewpage.action?spaceKey=HOMES&amp;title=Intelligent+Renewal+and+Energy+Requote+Services">
+  <properties
+      key="Name"
+      value="Energy Requote Service (ERS)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

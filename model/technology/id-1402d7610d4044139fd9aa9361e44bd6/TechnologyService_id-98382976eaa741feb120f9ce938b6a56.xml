@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AEM 6.5"
+    id="id-98382976eaa741feb120f9ce938b6a56"
+    documentation="Site CMS">
+  <properties
+      key="Name"
+      value="AEM 6.5"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

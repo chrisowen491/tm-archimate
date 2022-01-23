@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Braze CRM Consumer"
+    id="id-2f55ffa0e6c24ce0966f2825aab54547"
+    documentation="Sends instant emails for some channels - will be replaced by Braze platform services">
+  <properties
+      key="Name"
+      value="Braze CRM Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

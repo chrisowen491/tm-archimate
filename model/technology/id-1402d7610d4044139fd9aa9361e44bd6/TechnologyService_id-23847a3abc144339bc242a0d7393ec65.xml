@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Gateway Service"
+    id="id-23847a3abc144339bc242a0d7393ec65"
+    documentation="Proxy service for Stripe Payments">
+  <properties
+      key="Name"
+      value="Payment Gateway Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

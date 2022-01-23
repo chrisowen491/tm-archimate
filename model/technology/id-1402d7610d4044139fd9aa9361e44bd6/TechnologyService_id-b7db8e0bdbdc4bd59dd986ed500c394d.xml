@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Admin Service"
+    id="id-b7db8e0bdbdc4bd59dd986ed500c394d"
+    documentation="Backoffice service that helps monitoring the PIM platform">
+  <properties
+      key="Name"
+      value="Money PIM Admin Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

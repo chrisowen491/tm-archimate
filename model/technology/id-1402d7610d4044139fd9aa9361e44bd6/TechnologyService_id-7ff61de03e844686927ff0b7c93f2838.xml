@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Renewal Service (IRS)"
+    id="id-7ff61de03e844686927ff0b7c93f2838"
+    documentation="Motor (or Home) Intelligent Renewal Emails (MIRE &amp; HIRE respectively) display system generated enquiries which are generated 11 months after a customer's initial enquiry. These MIRE and HIRE enquiries are marked with a source code of MQI and HQI respectively.&#xA;&#xA;There is also an MSM_ENERGY channel for TED (Tariff End Date) and EIF (Energy Intelligent Follow-Up) processes.">
+  <properties
+      key="Name"
+      value="Renewal Service (IRS)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

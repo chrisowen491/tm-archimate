@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Component Library - Masthead/Footer"
+    id="id-28e9de2f07de4e08884fb27e7b25fcbc"
+    documentation="Vanilla HTML/JS package for use on 3rd party platforms e.g forum/Zendesk">
+  <properties
+      key="Name"
+      value="MSE Component Library - Masthead/Footer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

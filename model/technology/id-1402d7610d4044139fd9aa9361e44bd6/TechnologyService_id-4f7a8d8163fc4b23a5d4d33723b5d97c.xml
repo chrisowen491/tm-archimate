@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="History Service / lambda"
+    id="id-4f7a8d8163fc4b23a5d4d33723b5d97c"
+    documentation="This was to be part of the braze work however was deemed unneeded. Can Most likely be deleted">
+  <properties
+      key="Name"
+      value="History Service / lambda"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

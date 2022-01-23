@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Broker"
+    id="id-4ba433db2f794286bfc4551f52ade016"
+    documentation="Brokers access between Borrowing journeys and backend services">
+  <properties
+      key="Name"
+      value="Money Broker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activity Service"
+    id="id-db37079a29a341f99842b93acd515c37"
+    documentation="This service holds information on customer activity. The customer activity data is derived from events. The service is used by customer support staff via the CAT back office tool to view things like the times a customer has tried to sign into the Cheap Energy Club website and whether the sign-in was successful">
+  <properties
+      key="Name"
+      value="Activity Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

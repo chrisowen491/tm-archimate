@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Stamp duty Calculator"
+    id="id-3488dc41b2a34a219513483ded0422da"
+    documentation="Tools for MSE usres to calculate stamp duty in different UK regions">
+  <properties
+      key="Name"
+      value="MSE User Tool - Stamp duty Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

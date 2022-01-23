@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Admin Tools"
+    id="id-216c5f3e7b9d4257b2a33d8fea5c703d"
+    documentation="Internal CMS style tooling for editorial team to manage things like Travel Insurance Best buy products, forum pockets (cross linking content from forum to main site), user relation tools for checking email list subscription etc">
+  <properties
+      key="Name"
+      value="MSE Admin Tools"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

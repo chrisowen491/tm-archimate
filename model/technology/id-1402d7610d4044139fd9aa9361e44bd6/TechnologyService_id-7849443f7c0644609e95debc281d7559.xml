@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Core Service"
+    id="id-7849443f7c0644609e95debc281d7559"
+    documentation="Backoffice service responsible to manage money (and other) products">
+  <properties
+      key="Name"
+      value="Money PIM Core Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

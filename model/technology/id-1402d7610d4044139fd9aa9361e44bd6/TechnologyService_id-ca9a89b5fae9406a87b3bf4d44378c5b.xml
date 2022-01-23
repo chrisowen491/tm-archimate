@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation Private API"
+    id="id-ca9a89b5fae9406a87b3bf4d44378c5b"
+    documentation="Makes calls to providers and applies mappings and mapper schema transformations on question sets and results, persists results">
+  <properties
+      key="Name"
+      value="Aggregation Private API"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

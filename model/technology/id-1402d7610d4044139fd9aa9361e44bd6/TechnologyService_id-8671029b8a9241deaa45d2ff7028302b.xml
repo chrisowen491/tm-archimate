@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clubs Service"
+    id="id-8671029b8a9241deaa45d2ff7028302b"
+    documentation="This is backend service for CEC website. It deals with all CEC operation including requote">
+  <properties
+      key="Name"
+      value="Clubs Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

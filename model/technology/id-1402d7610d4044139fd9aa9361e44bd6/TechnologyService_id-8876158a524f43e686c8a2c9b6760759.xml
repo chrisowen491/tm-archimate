@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Tip Builder"
+    id="id-8876158a524f43e686c8a2c9b6760759"
+    documentation="MSE internal tool used by the editorial team to build the content for the Weekly Tip email">
+  <properties
+      key="Name"
+      value="MSE Tip Builder"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

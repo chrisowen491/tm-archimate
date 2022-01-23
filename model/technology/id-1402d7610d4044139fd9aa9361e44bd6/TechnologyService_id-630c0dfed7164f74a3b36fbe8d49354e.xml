@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Cheap Mobile Finder"
+    id="id-630c0dfed7164f74a3b36fbe8d49354e"
+    documentation="Mobile Handset and comparison section of site">
+  <properties
+      key="Name"
+      value="MSE Cheap Mobile Finder"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

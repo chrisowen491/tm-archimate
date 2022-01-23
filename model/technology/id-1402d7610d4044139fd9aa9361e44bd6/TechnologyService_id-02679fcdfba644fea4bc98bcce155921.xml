@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serenity Gateway"
+    id="id-02679fcdfba644fea4bc98bcce155921"
+    documentation="AWS API Gateway configuration to allow access to Serenity Lambdas">
+  <properties
+      key="Name"
+      value="Serenity Gateway"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

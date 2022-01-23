@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Partner Service"
+    id="id-a59e9b01cfda41ba8e495c224e2e1b16"
+    documentation="The Energy (Partner) Service, is designed as a broker to filter, simplify and translate internal MSM requests/responses for external partners. It also maintains a (temporary!!) UI for use by the energy ops team to control what providers and tariffs are allowed to be shown to specific partner buckets.">
+  <properties
+      key="Name"
+      value="Energy Partner Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

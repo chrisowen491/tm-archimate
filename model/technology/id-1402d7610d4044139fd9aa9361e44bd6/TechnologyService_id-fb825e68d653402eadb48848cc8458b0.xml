@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Data Insight Service"
+    id="id-fb825e68d653402eadb48848cc8458b0"
+    documentation="Store insights from Data Science for credit monitor customers to allow for personalisation. ">
+  <properties
+      key="Name"
+      value="Credit Data Insight Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

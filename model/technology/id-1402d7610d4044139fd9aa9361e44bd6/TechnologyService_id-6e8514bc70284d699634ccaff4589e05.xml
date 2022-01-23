@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEC Landing Page"
+    id="id-6e8514bc70284d699634ccaff4589e05"
+    documentation="This is a CEC frontend Single Page App (SPA) that serves some of the pages in the Cheap Energy Club journey">
+  <properties
+      key="Name"
+      value="CEC Landing Page"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

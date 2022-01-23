@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Event Consumer"
+    id="id-da48fd55113841f68a6dfa5add492757"
+    documentation="Listens to crm event and send data to Salesforce for instant emails ">
+  <properties
+      key="Name"
+      value="CRM Event Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

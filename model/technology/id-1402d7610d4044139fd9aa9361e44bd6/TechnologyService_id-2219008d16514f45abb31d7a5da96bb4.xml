@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Service v2"
+    id="id-2219008d16514f45abb31d7a5da96bb4"
+    documentation="Acts as the gateway for all event related data into kafka, performing validation against JSON schemas">
+  <properties
+      key="Name"
+      value="Event Service v2"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

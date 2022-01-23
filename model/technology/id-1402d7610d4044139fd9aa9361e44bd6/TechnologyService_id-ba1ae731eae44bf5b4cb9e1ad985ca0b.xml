@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MoreMoney Broker"
+    id="id-ba1ae731eae44bf5b4cb9e1ad985ca0b"
+    documentation="To be decommed as replaced by Mobile App Broker">
+  <properties
+      key="Name"
+      value="MoreMoney Broker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

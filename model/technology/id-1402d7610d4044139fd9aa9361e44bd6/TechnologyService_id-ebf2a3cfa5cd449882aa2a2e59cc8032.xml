@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AEM 6.2"
+    id="id-ebf2a3cfa5cd449882aa2a2e59cc8032"
+    documentation="Legacy Content Cluster - Hosts several MicroApps' + Web Service proxy layer + Web Tracking">
+  <properties
+      key="Name"
+      value="AEM 6.2"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

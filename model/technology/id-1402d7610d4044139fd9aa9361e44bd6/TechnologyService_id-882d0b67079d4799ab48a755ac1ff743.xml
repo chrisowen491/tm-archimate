@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Consumer Service"
+    id="id-882d0b67079d4799ab48a755ac1ff743"
+    documentation="Consumes events and store in ILSS to power dashboard">
+  <properties
+      key="Name"
+      value="Event Consumer Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

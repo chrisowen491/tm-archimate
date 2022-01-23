@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Job Runner Service"
+    id="id-da952374cce94275ade83e0d9e311333"
+    documentation="This service roll-on autoswitch for any user that missed auto switch window">
+  <properties
+      key="Name"
+      value="Energy Job Runner Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

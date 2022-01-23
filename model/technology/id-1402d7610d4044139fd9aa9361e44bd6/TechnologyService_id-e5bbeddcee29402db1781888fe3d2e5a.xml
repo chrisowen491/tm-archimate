@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Minimum Repayments Calculator"
+    id="id-e5bbeddcee29402db1781888fe3d2e5a"
+    documentation="Tool for MSE Users to determine how long it will take to pay off credit card debt by making minimum payments">
+  <properties
+      key="Name"
+      value="MSE User Tool - Minimum Repayments Calculator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

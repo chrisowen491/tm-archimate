@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instant Email Consumer"
+    id="id-3674d69e8b7f4c6ba448c7182562c6ae"
+    documentation="Service to consume channel specific enquiry events, map them to CRM/Braze events and send them to the event service.">
+  <properties
+      key="Name"
+      value="Instant Email Consumer"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

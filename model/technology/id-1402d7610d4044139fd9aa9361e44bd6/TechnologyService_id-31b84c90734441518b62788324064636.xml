@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home insurance - Prototype framework"
+    id="id-31b84c90734441518b62788324064636"
+    documentation="S3 bucket for hosting static assets via AEM api-gateway. Used to served static websites for testing">
+  <properties
+      key="Name"
+      value="Home insurance - Prototype framework"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

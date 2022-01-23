@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Insurance Service (results page)"
+    id="id-3c41d86a00294d3fa11de94aa68f5bd8"
+    documentation="Front end app for Home insurance results page">
+  <properties
+      key="Name"
+      value="Home Insurance Service (results page)"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

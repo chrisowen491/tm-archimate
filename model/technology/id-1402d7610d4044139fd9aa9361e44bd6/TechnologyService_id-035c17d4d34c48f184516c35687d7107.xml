@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE User Tool - Demotivator"
+    id="id-035c17d4d34c48f184516c35687d7107"
+    documentation="Tool for MSE Users to see how much they spend in a year on frequent purchases and encourage them to save">
+  <properties
+      key="Name"
+      value="MSE User Tool - Demotivator"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

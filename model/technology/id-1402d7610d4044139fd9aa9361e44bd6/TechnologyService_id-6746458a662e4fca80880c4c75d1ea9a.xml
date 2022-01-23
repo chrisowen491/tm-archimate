@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesdata Backoffice"
+    id="id-6746458a662e4fca80880c4c75d1ea9a"
+    documentation="Backoffice and configuration tool for Finance team">
+  <properties
+      key="Name"
+      value="Salesdata Backoffice"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

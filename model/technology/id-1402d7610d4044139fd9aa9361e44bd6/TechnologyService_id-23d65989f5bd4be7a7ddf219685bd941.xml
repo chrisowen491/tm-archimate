@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Gateway Service"
+    id="id-23d65989f5bd4be7a7ddf219685bd941"
+    documentation="Provides an interface to the AWS Cognito API to manage accounts">
+  <properties
+      key="Name"
+      value="Identity Gateway Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

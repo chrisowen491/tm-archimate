@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Travel insurance autotests"
+    id="id-05a338c5697f4f988022d6316aeb012a"
+    documentation=" Testing and monitoring the life-insurance channel">
+  <properties
+      key="Name"
+      value="Travel insurance autotests"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

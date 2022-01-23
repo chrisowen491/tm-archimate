@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Account Profile Service"
+    id="id-f4817b15ec6c4ed9a38bd2f586247590"
+    documentation="Provides a set of data services for profile datasets">
+  <properties
+      key="Name"
+      value="MSE Account Profile Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

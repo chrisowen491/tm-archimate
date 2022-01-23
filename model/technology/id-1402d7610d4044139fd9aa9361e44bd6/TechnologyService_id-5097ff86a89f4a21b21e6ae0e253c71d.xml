@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hyperdrive"
+    id="id-5097ff86a89f4a21b21e6ae0e253c71d"
+    documentation="Service Proxy for Component Services (this is the service that clients should talk to)">
+  <properties
+      key="Name"
+      value="Hyperdrive"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

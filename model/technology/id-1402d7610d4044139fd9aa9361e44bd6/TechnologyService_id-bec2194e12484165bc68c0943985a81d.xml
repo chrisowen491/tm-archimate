@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Celsus Admin"
+    id="id-bec2194e12484165bc68c0943985a81d"
+    documentation="Admin site to import/publish brooadband deals and configure feeds for mobile/recycling">
+  <properties
+      key="Name"
+      value="Celsus Admin"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

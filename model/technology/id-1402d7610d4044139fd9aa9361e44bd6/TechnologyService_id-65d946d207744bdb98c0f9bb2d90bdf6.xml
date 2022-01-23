@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesdata File Mover"
+    id="id-65d946d207744bdb98c0f9bb2d90bdf6"
+    documentation="Loads Salesdata Provider files from SFTP into Salesdata database">
+  <properties
+      key="Name"
+      value="Salesdata File Mover"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

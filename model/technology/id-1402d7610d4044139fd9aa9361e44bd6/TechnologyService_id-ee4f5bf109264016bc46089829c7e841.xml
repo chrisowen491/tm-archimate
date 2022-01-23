@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM Ingest Service"
+    id="id-ee4f5bf109264016bc46089829c7e841"
+    documentation="Backoffice service that fetchs external money product feeds">
+  <properties
+      key="Name"
+      value="Money PIM Ingest Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

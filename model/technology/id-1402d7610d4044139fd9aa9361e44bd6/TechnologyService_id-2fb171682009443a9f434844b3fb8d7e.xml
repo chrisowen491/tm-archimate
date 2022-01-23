@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money Event Consumer Service"
+    id="id-2fb171682009443a9f434844b3fb8d7e"
+    documentation="Event driven responses to elements of the borrowing journey">
+  <properties
+      key="Name"
+      value="Money Event Consumer Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

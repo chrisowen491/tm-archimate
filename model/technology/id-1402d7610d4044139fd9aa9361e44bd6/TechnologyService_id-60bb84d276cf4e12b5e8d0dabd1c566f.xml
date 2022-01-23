@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Money PIM App"
+    id="id-60bb84d276cf4e12b5e8d0dabd1c566f"
+    documentation="Backoffice frontend VueJS app for Money PIM platform (used by Money Ops / PDT)">
+  <properties
+      key="Name"
+      value="Money PIM App"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

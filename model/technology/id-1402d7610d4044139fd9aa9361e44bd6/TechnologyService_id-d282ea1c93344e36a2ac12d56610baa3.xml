@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSE Authentication Broker Service"
+    id="id-d282ea1c93344e36a2ac12d56610baa3"
+    documentation="Brokers access to services to support authentication">
+  <properties
+      key="Name"
+      value="MSE Authentication Broker Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEC AEM Webapp"
+    id="id-a1b636314c8d492281d4fd3a725b0672"
+    documentation="This is the Cheap Energy Club specific AEM cluster that serves some of the pages on the Cheap Energy Club website">
+  <properties
+      key="Name"
+      value="CEC AEM Webapp"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

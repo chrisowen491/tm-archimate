@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Q&amp;A Service"
+    id="id-576788dba0334dceaa9ecb37afd46920"
+    documentation="Provides question sets and validation for energy applications specific to a provider before submitting applications">
+  <properties
+      key="Name"
+      value="Energy Q&amp;A Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

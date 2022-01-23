@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agg Engine Car"
+    id="id-bc1690b24cdb477da8d0c2b62e0f564a"
+    documentation="A combined public / private application deployed with the carinsurance-providers mappers and channel config. Makes provider calls for enquiries, stores results and makes them available to the channel.">
+  <properties
+      key="Name"
+      value="Agg Engine Car"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

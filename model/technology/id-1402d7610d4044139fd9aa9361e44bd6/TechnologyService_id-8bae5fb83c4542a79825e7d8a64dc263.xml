@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Worker"
+    id="id-8bae5fb83c4542a79825e7d8a64dc263"
+    documentation="Removes expired claims and convictions, test accounts and test profiles in Prod">
+  <properties
+      key="Name"
+      value="Account Worker"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>

@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Product Service"
+    id="id-d8d255eb658948df8053a021c3e31416"
+    documentation="This is the service that manages evergy tariffs &amp; creates results when user search for energy tariff">
+  <properties
+      key="Name"
+      value="Energy Product Service"/>
+  <properties
+      key="Latest Sync Date"
+      value="23/01/2022 00:35:57"/>
+  <properties
+      key="Technology"
+      value="undefined"/>
+</archimate:TechnologyService>
