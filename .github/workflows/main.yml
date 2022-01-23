@@ -13,9 +13,8 @@ jobs:
 
       - name: Deploy Archi report
         id: archi
-        uses: WoozyMasta/archimate-ci-image@4.9.1-1.0.2
+        uses: WoozyMasta/archimate-ci-image@4.9.1-1.0.1
         with:
-          GIT_REPOSITORY: https://github.com/chrisowen491/tm-archimate.git
           archiHtmlReportEnabled: true
           githubPagesBranch: docs
           archiJasperReportEnabled: false
